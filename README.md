@@ -8,6 +8,4 @@ This project demonstrates the evaluation of Retrieval-Augmented Generation (RAG)
 - Employs OpenAI Evals for robust performance evaluation.
 - Provides a streamlined process for RAG model assessment.
 
-## Getting Started
 
-To set up and run the project locally, install the required dependencies listed in `requirements.txt` and follow the provided instructions in `app.py`.
